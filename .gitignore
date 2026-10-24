@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment
+.env
+venv/
+__pycache__/
+
+# Локальные сырые файлы, черновики и все варианты генераций (не пушим в Git)
+drafts/
